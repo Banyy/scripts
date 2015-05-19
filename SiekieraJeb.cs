@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections;
-
-
+//moj z dupy koment
 [RequireComponent(typeof(AudioSource))]
 public class SiekieraJeb : MonoBehaviour {
 public Texture2D crosshairTexture;
@@ -16,7 +15,6 @@ private float range = 100.0f;
 private GameObject pistolSparks; 
 private Vector3 fwd;
 private RaycastHit hit;
-
 public GameObject bulletHole;
 
 
