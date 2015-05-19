@@ -5,7 +5,7 @@ public class AxeAnimation : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+	    //dupdupdupdupdupaaaa
 	}
 	
 	// Update is called once per frame
